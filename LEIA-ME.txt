@@ -1,0 +1,28 @@
+ÍTACA — LANDING PAGE E BETA PARA NAVEGADOR
+===========================================
+
+Este pacote é uma pasta de site estático pronta para publicação.
+
+Arquivos principais:
+  index.html        — apresentação do projeto
+  experimentar.html — versão beta para testar no navegador
+  downloads.html    — Mac e Windows em desenvolvimento (downloads desativados)
+  licenca.html      — página de licença MIT (verifique titular no LICENSE.txt)
+  apoie.html        — apoio temporariamente indisponível até lançamento oficial
+  LICENSE.txt       — texto da licença
+  assets/           — CSS e logotipo
+
+Não é necessário Node.js, Rust ou servidor para publicar no GitHub Pages.
+Ao enviar ao repositório, mantenha index.html e os outros arquivos na raiz,
+e a pasta assets ao lado deles.
+
+OBSERVAÇÃO IMPORTANTE SOBRE DADOS DA BETA:
+Os livros criados na versão web são guardados no armazenamento local do navegador,
+não numa conta online. Cada navegador/dispositivo mantém dados separados.
+O usuário deve exportar backups JSON regularmente; limpar dados do site pode apagá-los.
+
+A página Apoie não solicita nem recebe pagamentos neste estágio.
+Os instaladores Mac e Windows não estão disponíveis publicamente.
+
+Nenhuma mudança funcional foi feita no editor beta desta atualização;
+foram atualizadas as páginas públicas e os textos de apresentação.
